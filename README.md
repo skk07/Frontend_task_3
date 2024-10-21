@@ -15,8 +15,9 @@ I have developed the frontend for six **responsive forms** using **HTML**, **CSS
   - **Sign Up** page
   - **Change Password** page
   - **Forgot Password** page
-- The **Change Password** and **Forgot Password** forms are displayed as **Modal Popups** rather than separate pages, creating a more fluid and user-friendly experience.
-- When users click the **Sign In** button, the **OTP Verification** form is triggered, also opening in a **Modal Popup** for quick access.
+  - **OTP Verification** page
+- The **Change Password**, **Forgot Password** and **OTP Verification** forms are displayed as **Modal Popups** rather than separate pages, creating a more fluid and user-friendly experience.
+- When users click the **Sign In** button, the **OTP Verification** form is triggered.
 - A **My Profile** button is provided in the navigation bar, allowing users to navigate directly to the **Profile** form.
 
 This approach ensures a smooth and intuitive user experience, fulfilling all the assigned requirements.By utilizing **modals**, the application maintains a **clean interface** and reduces the need for multiple separate pages, which enhances user engagement and improves overall performance.
