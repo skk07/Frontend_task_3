@@ -24,19 +24,25 @@ This approach ensures a smooth and intuitive user experience, fulfilling all the
 To provide a quick visual overview, I have also included screenshots of the web application, showcasing its layout and functionality.
 
 1. Sign In form - 
+
 ![ss_of_page_1](https://github.com/user-attachments/assets/4418326f-33ee-4b60-ad14-d0c4c2ec858e)
 
 2. Sign Up form - 
+
 ![ss_of_page_4](https://github.com/user-attachments/assets/3f031965-51a2-4a36-acf4-3ed5557ec30a)
 
-3. Forget Password Form - 
+3. Forget Password Form -
+   
 ![ss_of_page_6](https://github.com/user-attachments/assets/1a6055c4-df03-4539-80c9-bcb4d3fcb5c2)
 
-4. Verify OTP form - 
+5. Verify OTP form - 
+
 ![ss_of_page_5](https://github.com/user-attachments/assets/be662a8a-b298-4233-9490-7799937c4a71)
 
-5. Change Password form - 
+6. Change Password form - 
+
 ![ss_of_page_3](https://github.com/user-attachments/assets/fac56177-3d79-40d9-b86d-8a24fc7f2199)
 
-6. My Profile form - 
+7. My Profile form - 
+
 ![ss_of_page_2](https://github.com/user-attachments/assets/f5c226c5-eb01-4282-8a8b-a638fa1f3b5b)
