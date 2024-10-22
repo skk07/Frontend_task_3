@@ -1,0 +1,118 @@
+/* Default light theme */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #ececec;
+    color: black;
+}
+
+.box-area {
+    width: 930px;
+    background-color: white;
+    color: black;
+}
+
+/* Placeholder styling */
+::placeholder {
+    font-size: 16px;
+}
+
+.rounded-4 {
+    border-radius: 20px;
+}
+
+.rounded-5 {
+    border-radius: 30px;
+}
+
+/* Buttons */
+.btn-custom-primary {
+    background-color: #103cbe; /* Custom primary color */
+    color: white;
+}
+
+.btn-custom-light {
+    background-color: #f8f9fa; /* Custom light color */
+    color: #000; /* Text color for light */
+}
+
+/* Profile hover */
+.profile:hover {
+    color: #ececec;
+}
+
+/* Profile image preview */
+#profilePreview {
+    max-width: 150px;
+    max-height: 150px;
+    object-fit: cover;
+    border: 1px solid #ddd;
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* For small screens */
+@media only screen and (max-width: 768px) {
+    .box-area {
+        margin: 0 10px;
+    }
+    .left-box {
+        height: 100px;
+        overflow: hidden;
+    }
+    .right-box {
+        padding: 20px;
+    }
+}
+
+/* Dark theme styles */
+body.dark-theme {
+    background-color: #121212;
+    color: #f5f5f5;
+}
+
+.box-area.dark-theme {
+    background-color:  #121212;
+   
+}
+
+.navbar.dark-theme {
+    background-color: #121212;
+    
+}
+
+.btn-custom-primary.dark-theme {
+    background-color: #1a73e8;
+    color: #f5f5f5;
+}
+
+.btn-custom-light.dark-theme {
+    background-color: #555;
+    color: white;
+}
+
+.form-control.dark-theme {
+    
+    color: black;
+    border: 1px solid #666;
+}
+
+::placeholder.dark-theme {
+    color: #ccc;
+}
+
+textarea.dark-theme, input[type="text"].dark-theme, input[type="email"].dark-theme, input[type="tel"].dark-theme, input[type="file"].dark-theme {
+    
+    border: 1px solid #666;
+}
+
+/* Profile image in dark mode */
+#profilePreview.dark-theme {
+    border: 1px solid #666;
+}
+
+/* Responsive design for dark theme */
+@media only screen and (max-width: 768px) {
+    .box-area.dark-theme {
+        margin: 0 10px;
+    }
+}
