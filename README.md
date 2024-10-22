@@ -19,6 +19,7 @@ I have developed the frontend for six **responsive forms** using **HTML**, **CSS
 - The **Change Password**, **Forgot Password** and **OTP Verification** forms are displayed as **Modal Popups** rather than separate pages, creating a more fluid and user-friendly experience.
 - When users click the **Sign In** button, the **OTP Verification** form is triggered.
 - A **My Profile** button is provided in the navigation bar, allowing users to navigate directly to the **Profile** form.
+- I tried to apply dark thean and light theam on **My Profile** page using toggle button. 
 
 This approach ensures a smooth and intuitive user experience, fulfilling all the assigned requirements.By utilizing **modals**, the application maintains a **clean interface** and reduces the need for multiple separate pages, which enhances user engagement and improves overall performance.
 To provide a quick visual overview, I have also included screenshots of the web application, showcasing its layout and functionality.
@@ -45,4 +46,5 @@ To provide a quick visual overview, I have also included screenshots of the web 
 
 7. My Profile form - 
 
-![ss_of_page_2](https://github.com/user-attachments/assets/f5c226c5-eb01-4282-8a8b-a638fa1f3b5b)
+![ss_of_page_2](https://github.com/user-attachments/assets/8be6b58d-ec6f-4153-bec3-760562d7d007)
+
